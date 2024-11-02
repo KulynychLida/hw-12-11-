@@ -1,0 +1,26 @@
+li {
+    list-style: none;
+    text-align: center;
+}
+.box {
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 850px;
+    height: 320px;
+}
+.card {
+    width: 250px;
+    height: 310px;
+    background-color: rgb(222, 246, 255);
+    border: solid rgb(194, 194, 194) 2.5px;
+    font-size: 24px;
+    border-radius: 17px;
+}
+img {
+    width: 230px;
+    height: 230px;
+    margin: 13px;
+    border-radius: 10px;
+}
